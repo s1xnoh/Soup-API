@@ -1,0 +1,73 @@
+#
+#
+#
+#
+#
+#
+#  ███████╗     ██████╗     ██╗   ██╗    ██████╗                █████╗     ██████╗     ██╗
+#  ██╔════╝    ██╔═══██╗    ██║   ██║    ██╔══██╗              ██╔══██╗    ██╔══██╗    ██║
+#  ███████╗    ██║   ██║    ██║   ██║    ██████╔╝    █████╗    ███████║    ██████╔╝    ██║
+#  ╚════██║    ██║   ██║    ██║   ██║    ██╔═══╝     ╚════╝    ██╔══██║    ██╔═══╝     ██║
+#  ███████║    ╚██████╔╝    ╚██████╔╝    ██║                   ██║  ██║    ██║         ██║
+#  ╚══════╝     ╚═════╝      ╚═════╝     ╚═╝                   ╚═╝  ╚═╝    ╚═╝         ╚═╝
+#
+#
+# Made by S1xnoh
+# Thanks!
+#
+#
+#   Para utilizar as placas de Recraft, basta escrever na primeira linha as seguintes palavras:
+#
+#   sopa = Placa de Sopa
+#   recraft = Placa de Recraft de Cogumelo
+#   cocoa = Placa de Recraft de Cocoabean
+#   cactus = Placa de Recraft de Cacto
+#
+#   A Regeneração funciona por 0.5 corações, então 7 = 3.5 corações por sopa!
+#
+#   Marque como "true" os tipos de Recraft que deseja permitir!
+#   Marque como "false" os tipos de Recraft que deseja desativar!
+#
+#   No "TextoPlaca" você escreve qual será a segunda linha das placas!
+#
+#
+#
+#   IMPORTANTE !!!!!!!!!!
+#
+#   Para conseguir colocar uma placa de recraft, o jogador precisa ter a
+#   seguinte permissão: 'soupapi.sign'
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#   A Regeneração funciona por 0.5 corações, então 7 = 3.5 corações por sopa!
+Regenerar: 7
+Fome: 7
+
+
+
+
+#   Essa variavel representa a segunda linha das placas!
+TextoPlaca: '&a&lSERVIDOR'
+
+
+
+
+#   Marque como "true" os tipos de Recraft que deseja permitir!
+#   Marque como "false" os tipos de Recraft que deseja desativar!
+Cocoabean: true
+Cacto: true
+Fungo: true
+Abobora: true
+Melao: true

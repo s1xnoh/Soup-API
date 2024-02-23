@@ -1,0 +1,4 @@
+name: SoupAPI
+authors: [s1xnoh]
+version: '${project.version}'
+main: com.github.s1xnoh.training.Main

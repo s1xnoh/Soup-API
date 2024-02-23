@@ -1,0 +1,5 @@
+com\github\s1xnoh\training\events\Events.class
+com\github\s1xnoh\training\events\Soup.class
+com\github\s1xnoh\training\listeners\SignListeners.class
+com\github\s1xnoh\training\Main.class
+com\github\s1xnoh\training\utils\StringUtils.class
