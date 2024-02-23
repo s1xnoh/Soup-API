@@ -74,26 +74,6 @@
             <scope>system</scope>
         </dependency>
         <dependency>
-            <groupId>com.github</groupId>
-            <artifactId>TitleAPI</artifactId>
-            <version>latest</version>
-            <scope>system</scope>
-            <systemPath>D:/ATUAL MAKE/servers/Dependencias/TitleAPI.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>com.sk89q.worldedit</groupId>
-            <artifactId>worldedit-bukkit</artifactId>
-            <version>latest</version>
-            <scope>system</scope>
-            <systemPath>D:/ATUAL MAKE/servers/Dependencias/WorldEdit.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.16.6</version>
-            <scope>provided</scope>
-        </dependency>
-        <dependency>
             <groupId>com.comphenix.protocol</groupId>
             <artifactId>ProtocolLib</artifactId>
             <version>latest</version>
@@ -113,20 +93,6 @@
             <version>latest</version>
             <systemPath>D:/ATUAL MAKE/servers/Dependencias/PlaceholderAPI.jar</systemPath>
             <scope>system</scope>
-        </dependency>
-        <dependency>
-            <groupId>fr.minuskube</groupId>
-            <artifactId>netherboard-bukkit</artifactId>
-            <version>latest</version>
-            <scope>system</scope>
-            <systemPath>D:/ATUAL MAKE/servers/Dependencias/Netherboard.jar</systemPath>
-        </dependency>
-        <dependency>
-            <groupId>com.sk89q.worldguard</groupId>
-            <artifactId>worldguard-bukkit</artifactId>
-            <version>latest</version>
-            <scope>system</scope>
-            <systemPath>D:/ATUAL MAKE/servers/Dependencias/WorldGuard.jar</systemPath>
         </dependency>
     </dependencies>
 </project>
