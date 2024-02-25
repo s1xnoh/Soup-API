@@ -33,7 +33,6 @@ public final class Main extends JavaPlugin implements Listener {
     @Override
     public void onLoad() {
         this.getLogger().info("§aPlugin incializando...");
-        saveDefaultConfig();
     }
 
 
